@@ -1,5 +1,5 @@
 # Welcome to Sustainability Page
-![Sustainability](/images/Welcome_Page.png "Sustainability"){: style="height:100px"}
+![Sustainability](./images/Welcome_Page.png "Sustainability"){: style="height:120px"}
 
 Global Impact team is driven by our purpose to nourish the world in a safe, responsible and sustainable way, and motivated by our ambition to build the most sustainable food supply chains in the world. 
 

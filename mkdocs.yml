@@ -1,3 +1,4 @@
 site_name: Sustainability Documentation
+repo_url: https://github.com/slowikr/mkdocs-example
 theme:
   name: material

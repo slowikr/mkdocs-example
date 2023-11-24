@@ -6,4 +6,4 @@ If something is unsustainable, it means it’s using up resources faster than th
 
 The idea of sustainability is used in a few different ways. You’ll sometimes hear about something being financially sustainable or socially sustainable. But this article will focus on environmental sustainability
 
-![Sustainability Pillars](./images/Sustainability_pillars.jpg "Sustainability Pillars"){: style="height:250px"}
+![Sustainability Pillars](./images/Sustainability_pillars.jpg "Sustainability Pillars"){: style="height:450px"}

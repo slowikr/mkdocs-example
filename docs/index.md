@@ -1,7 +1,7 @@
 # Welcome to Sustainability Page
 
 Here you will find all the details regarding Sustainability in Cargill.
-For latest news please visit our Sharepoint Page: [Global Impact] (https://cargillonline.sharepoint.com/sites/Global_Impact).
+For latest news please visit our Sharepoint Page: [Global Impact](https://cargillonline.sharepoint.com/sites/Global_Impact).
 
 ## Commands
 

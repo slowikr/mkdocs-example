@@ -24,3 +24,11 @@ markdown_extensions:
   - meta
   - pymdownx.emoji
   - pymdownx.progressbar
+plugins:
+    - search
+    - mkdocs-video
+    - glightbox
+    - section-index
+extra_javascript:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+  - 'https://assets.adobedtm.com/47e3e446470b/4aea294d933b/launch-5c4c4fabc470.min.js'

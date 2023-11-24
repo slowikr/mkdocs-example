@@ -2,7 +2,7 @@
 site_name: Sustainability Documentation
 site_author: Radoslaw Slowik
 site_description: Simple example of using MKdocs for creating Sustainability documention site
-#repo_url: https://github.com/slowikr/mkdocs-example
+repo_url: https://github.com/slowikr/mkdocs-example
 theme:
   name: material
   logo: 'images/logo.jpg'

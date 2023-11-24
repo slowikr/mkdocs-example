@@ -63,25 +63,25 @@ extra_javascript:
 nav: 
   - Introduction to Sustainability:
     - Home: index.md
-    - Who we are: test
-    - Why Sustainability is important: test
-    - Regulatory requirements: test
+    - Who we are: index.md
+    - Why Sustainability is important: index.md
+    - Regulatory requirements: index.md
   - Sustainability in Cargill:
     - Energy:
       - Scope 1&2: 
-        - Regulatory requirements: test
-        - Cargill quidelines: test
-        - Enablon instruction: test
-        - Power BI reporting: test
+        - Regulatory requirements: index.md
+        - Cargill quidelines: index.md
+        - Enablon instruction: index.md
+        - Power BI reporting: index.md
     - Water:
-      - Overview: test
-      - Regulatory requirements: test
-      - Enablon instruction: test
-      - Power BI reporting: test
-      - Cargill methodology: test
-    - Human Rights: test
+      - Overview: index.md
+      - Regulatory requirements: index.md
+      - Enablon instruction: index.md
+      - Power BI reporting: index.md
+      - Cargill methodology: index.md
+    - Human Rights: index.md
   - Sustainability database: 
-    - Schema Overview: test
-    - List of tables: test
-    - Sample Codes: test
-    - Requesting access: test
+    - Schema Overview: index.md
+    - List of tables: index.md
+    - Sample Codes: index.md
+    - Requesting access: index.md

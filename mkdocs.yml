@@ -12,3 +12,15 @@ theme:
     - scheme: cargill
 extra_css:
   - stylesheets/cargill_mkdocs.css
+use_directory_urls: false
+markdown_extensions:
+  - toc:
+      title: On This Page
+      toc_depth: 2-3
+  - admonition
+  - pymdownx.details
+  - codehilite
+  - attr_list
+  - meta
+  - pymdownx.emoji
+  - pymdownx.progressbar

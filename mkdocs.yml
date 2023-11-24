@@ -1,15 +1,41 @@
+#Project Information
 site_name: Sustainability Documentation
+site_author: Radoslaw Slowik
+site_description: Simple example of using MKdocs for creating Sustainability documention site
 repo_url: https://github.com/slowikr/mkdocs-example
 theme:
-  name: 'material'
+  name: material
   logo: 'images/logo.jpg'
   features:
+    #- navigation.tabs
     - navigation.sections
     - navigation.top
+    - navigation.tracking
     - search.highlight
-    - toc.follow    
+    - search.suggest
+    - search.share
+    - toc.follow #toc.integrate
+    - content.code.copy
+    - content.code.annotation
+    - content.tabs.link 
+    - content.tooltips
+    - content.code.annotate
+    - content.action.view
+  language: en   
   palette:
-    - scheme: cargill
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: teal
+      accent: purple
+      logo: 
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+        primary: teal
+        accent: lime
 extra_css:
   - stylesheets/cargill_mkdocs.css
 use_directory_urls: false
@@ -32,3 +58,30 @@ plugins:
 extra_javascript:
   - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
   - 'https://assets.adobedtm.com/47e3e446470b/4aea294d933b/launch-5c4c4fabc470.min.js'
+
+#Page tree
+nav: 
+  - Introduction to Sustainability:
+    - Home: index.md
+    - Who we are: test
+    - Why Sustainability is important: test
+    - Regulatory requirements: test
+  - Sustainability in Cargill:
+    - Energy:
+      - Scope 1&2: 
+        - Regulatory requirements: test
+        - Cargill quidelines: test
+        - Enablon instruction: test
+        - Power BI reporting: test
+    - Water:
+      - Overview: test
+      - Regulatory requirements: test
+      - Enablon instruction: test
+      - Power BI reporting: test
+      - Cargill methodology: test
+    - Human Rights: test
+  - Sustainability database: 
+    - Schema Overview: test
+    - List of tables: test
+    - Sample Codes: test
+    - Requesting access: test

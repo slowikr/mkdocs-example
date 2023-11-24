@@ -1,5 +1,6 @@
 # Welcome to Sustainability Page
 ![Sustainability](/images/Welcome_Page.png "Sustainability"){: style="height:100px"}
+
 Global Impact team is driven by our purpose to nourish the world in a safe, responsible and sustainable way, and motivated by our ambition to build the most sustainable food supply chains in the world. 
 
 We do this through our actions to realize our environmental and social sustainability goals, track and report our progress, form key strategic alliances and engage stakeholders, invest in and enrich our communities, as well as build our reputation as a company our customers want to work with, our employees are proud to work for and our key stakeholders admire and respect.

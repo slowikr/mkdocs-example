@@ -69,7 +69,7 @@ nav:
   - Sustainability in Cargill:
     - Energy:
       - Scope 1&2: 
-        - Regulatory requirements: index.md
+        - Regulatory requirements: energy_scope12_requirements.md
         - Cargill quidelines: index.md
         - Enablon instruction: index.md
         - Power BI reporting: index.md
